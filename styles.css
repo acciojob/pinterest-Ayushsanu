@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.hero{
+	display:flex;
+	
+    position: relative;
+}
+img{
+	margin right:20px;
+}
+
+button{
+	background-color:red;
+	color:white;
+}
